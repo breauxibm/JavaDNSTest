@@ -1,0 +1,1 @@
+jar cvfe ..\DnsTest.jar com.ibm.us.breaux.DnsTest -C ..\src com\ibm\us\breaux\DnsTest.class
